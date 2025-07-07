@@ -1,6 +1,6 @@
 var ham = 0;
 var cheese = 0;
-
+var bread = 0;
 //Report to HQ
 
 var report = 'blank';
